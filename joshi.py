@@ -241,13 +241,7 @@ def menu():
                                         plist.append('first12345')
                                         plist.append('first123456')
                                         plist.append('first123456789')
-                                        plist.append('First 12')
-                                        plist.append('First 123')
-                                        plist.append('First1234')
-                                        plist.append('First123')
-                                        plist.append('First1234')
-                                        plist.append('First12345')
-                                        plist.append('First123456')
+                                        
                                 else:
                                         try:
                                                 linex()
