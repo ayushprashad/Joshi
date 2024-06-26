@@ -326,7 +326,6 @@ def menu():
 					plist.append('First 1234')
 					plist.append('First 12345')
 					plist.append('First 123456')
-					plist.append('First 12345678')
 					plist.append('First@12')
 					plist.append('First@123')
 					plist.append('First@1234')
