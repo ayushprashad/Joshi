@@ -234,7 +234,7 @@ def menu():
                                         plist.append('lastlast')
                                         plist.append('first 123')
                                         plist.append('first 1234')
-                                         plist.append('first 12345')
+                                        plist.append('first 12345')
                                         plist.append('first12')
                                         plist.append('first123')
                                         plist.append('first1234')
